@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,viki.io
 DOMAIN-SUFFIX,viki
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,sessions.bugsnag.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,configcat.com
